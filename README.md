@@ -8,8 +8,8 @@
  - 서비스 서버 : Flask
  - 통신데이터유형 : json / dict
  - 특징 : Conv2D and MaxPOOL2D 사용으로 특성맵 추출과 풀링층을 거쳐 과대적합 방지
-<pre>
-        ###디렉터리 구조 :
+###디렉터리 구조 :
+<pre>        
         Portfolio260409 (root)
          └ ai_model
            └ ai_interface.py (모델인터페이스)
